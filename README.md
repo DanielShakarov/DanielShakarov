@@ -10,7 +10,7 @@
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielShakarov&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div>
- <img align= "center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> 
+ <img align= "center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
  <img align= "center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"> 
  <img align= "center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
  <img align= "center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
