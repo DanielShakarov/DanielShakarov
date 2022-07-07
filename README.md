@@ -15,3 +15,6 @@
  <img align= "center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
  <img align= "center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
+ <div>
+  <a href="htpps://instagram.com/DanielShakarov" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+ </div>
