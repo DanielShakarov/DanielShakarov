@@ -14,7 +14,7 @@
  <img align= "center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"> 
  <img align= "center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
  <img align= "center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
- <img align= "right" src="gifdogithub.png">
+ <img align= "right" src= "gifdogithub.png">
 </div>
  <div>
   <a href="https://www.instagram.com/daniel_shakarov_dan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
